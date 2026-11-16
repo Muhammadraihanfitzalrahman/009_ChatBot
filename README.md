@@ -1,16 +1,6 @@
-# 009_ChatBot
+# Halaman Web AI
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/861d18fd-37a4-4328-8762-35b3f23e4eef" />
 
-Aplikasi chatbot AI menggunakan Node.js, Express, dan OpenRouter API dengan fitur streaming response.
+# Dasbor Varcel
+<img width="959" height="539" alt="Cuplikan layar 2026-11-16 115318" src="https://github.com/user-attachments/assets/2309d393-56a8-44b2-aba8-34dd0aec80b9" />
 
-## Teknologi
-- Node.js
-- Express.js
-- OpenRouter API
-- HTML, CSS, JavaScript
-
-## Cara Menjalankan
-1. Clone repositori ini
-2. Jalankan `npm install`
-3. Buat file `.env` dan isi `OPENROUTER_API_KEY`
-4. Jalankan `node index.js`
-5. Buka `http://localhost:3000`
